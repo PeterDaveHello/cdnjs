@@ -20,7 +20,8 @@
         "basePath": "",
         "files": [
           "css/custom-theme/jquery-ui*",
-          "third-party/*"
+          "third-party/**/*",
+          "assets/**/*"
         ]
       }
     ]
